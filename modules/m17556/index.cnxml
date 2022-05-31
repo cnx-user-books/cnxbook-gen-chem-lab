@@ -1,0 +1,200 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Totally, Terrific Table</title>
+  <metadata>
+  <md:content-id>m17556</md:content-id><md:title>Totally, Terrific Table</md:title>
+  <md:abstract>Periodicity</md:abstract>
+  <md:uuid>015680af-895d-4eb5-94fa-df02379d1a1c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.org/content/m17556/latest/PeriodicTableReportF09.doc" strength="3">PeriodicTableReportF09</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1166529864101">
+      <title>Lab 4: Totally, Terrific Table!</title>
+      <section id="id1166519795469">
+        <title>Objective</title>
+        <para id="id1166548668355">The goals of this experiment are:</para>
+        <list id="id1166530671422" list-type="bulleted">
+          <item>To observe the reactions of several metals with cold water, hot water, acids, and other metal ions.</item>
+          <item>To prepare an activity series of the metals based on the observations from the above reactions.</item>
+        </list>
+      </section>
+      <section id="id1166540154360">
+        <title>Grading</title>
+        <para id="id1166539989239">You will be assessed on:</para>
+        <list id="id1166530560599" list-type="bulleted"><item>Observations of the reactions of several metals with cold water, hot water, acids and then other metal ions.</item>
+          <item>Preparation of an activity series of the metals based on the observations from the above reactions.</item>
+          <item>Answers to the quiz and post-lab questions.</item>
+        </list>
+      </section>
+      <section id="id1166529776255">
+        <title>Background Information</title>
+        <para id="id1166510293253">First, you are going to travel back to 1869 and marvel at how the first periodic law and table were born when only 63 elements had been discovered at the time. A 35 year old professor of general chemistry, <emphasis effect="bold">Dmitri Ivanovich Mendeleev,</emphasis> at the University of St. Petersburg (now Lennigrad) in Russia was shuffling cards, each labeled with the property of an element, trying to organize his thoughts for his soon-to-be famous textbook on chemistry. He realized that if the elements were arranged in the order of their atomic weights, there was a trend in properties that repeated itself several times! </para>
+        <para id="id1166507876368">In order to see and find order among the elements, we must have some general acquaintance with them. Elements are made of matter, and matter is defined as anything that has mass and occupies space. This includes everything that you can see and a lot that you cannot. It follows that in order to distinguish between different types of matter (in other words different elements) we have to assess their properties.</para>
+        <para id="id1166515848732">There are two types of properties: intensive and extensive. In the former case, <emphasis effect="bold">intensive</emphasis> properties do not depend on the how much of an element is present but do include state (whether a substance is a solid, liquid or gas), color and chemical reactivity. <emphasis effect="bold">Extensive </emphasis>properties depend on the quantity of matter present; mass and volume are extensive properties.</para>
+        <para id="id1166526351434">Properties can be further categorized as either chemical or physical. A chemical change describes how the substance may change composition, such as spontaneously by combustion or in combination with other substances. On the other hand, physical changes are those properties that can be measured without changing the composition of the matter. Condensation of steam to water is a physical change.</para>
+      </section>
+      <section id="id1166508884089">
+        <title>Introduction</title>
+        <para id="id1166539327004">What is there to know about the periodic table? Why is it important? Why does it appear in nearly every science lecture room and lab? Is it just a portrait of an aspect of chemistry or does it serve a useful purpose? Why is the name <emphasis effect="bold">periodic</emphasis> appropriate? Why is the table arranged in such a way? What are the important features of the table? Does it give order to the approximately 120 known elements?</para>
+        <para id="id1166516738664">Relative Reactivity of Metals and the Activity Series</para>
+        <para id="id1166543765903"> A superficial glance at the Periodic Table will reveal that all known elements are listed by their chemical symbols. An in depth glance at the Periodic Table yields information on the mass of an atom of the element in atomic mass units (amu) for the molar mass of a mole (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>02</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "02" times "10" rSup { size 8{"23"} } } {}</m:annotation></m:semantics></m:math>) of atoms in grams below the chemical symbol for each element. Above the chemical symbol for each element, there is a second number listed, the atomic number, which gives the number of protons (positively charged particles in the nucleus), or the number of electrons (negatively charged outside the nucleus) for a neutral atom.</para>
+        <para id="id1166525687671">Mendeleev arranged the elements in the Periodic Table in order of increasing atomic number in horizontal rows so that elements with similar properties recur periodically (another words they fall directly beneath each other in the Table). The elements in a given vertical column are referred to as a family or group. The physical and chemical properties of the elements in a given family change gradually as one goes from one element in the column to the next. By observing the trends in properties, the elements can be arranged in the order in which they appear in the Periodic Table.</para>
+      </section>
+    </section>
+    <section id="id1166529852950">
+      <title>Procedure</title>
+      <section id="id1166546701105">
+        <title>I. Activity Series</title>
+        <section id="id1166531761702">
+          <title>Part 1: Reactions of Metals with Water</title>
+          <para id="id1166540130390">
+            <emphasis effect="bold">CAUTION: Sodium and potassium react very rapidly with water to evolve hydrogen and heat. This is potentially dangerous because of the possibility of the violent explosive reaction of H</emphasis>
+            <emphasis effect="bold">2</emphasis>
+            <emphasis effect="bold"> (g) with O</emphasis>
+            <emphasis effect="bold">2</emphasis>
+            <emphasis effect="bold"> (g) present in the air. Both sodium and potassium cause severe chemical burns when it comes into contact with the skin. </emphasis>
+          </para>
+          <para id="id1166541290308">
+            <emphasis effect="bold">CAUTION: </emphasis>
+            <emphasis effect="bold">H</emphasis>
+            <emphasis effect="bold">2</emphasis>
+            <emphasis effect="bold"> is flammable.</emphasis>
+          </para>
+          <para id="id1166545767875"><emphasis effect="bold">Demo</emphasis>: The reactions of sodium and potassium with water will be demonstrated for you. Observe the rate of evolution of H<sub>2</sub> gas as a tiny piece of sodium or potassium is placed in a 500-mL beaker full of deionized water. Record your observations on your report form and write a balanced equation for these reactions.</para>
+          <list id="id1166530476099" list-type="enumerated" number-style="arabic">
+            <item> Place 5 mL H<sub>2</sub>O (cold water should be used for Cu, Zn and Ca and warm water should be used with Mg) in each of four clean test tubes and place them in a test tube rack. Label them as follows: </item>
+          </list>
+          <table id="id1166544650604" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>A.</entry>
+                  <entry>Mg</entry>
+                </row>
+                <row>
+                  <entry>B.</entry>
+                  <entry>Cu</entry>
+                </row>
+                <row>
+                  <entry>C.</entry>
+                  <entry>Zn</entry>
+                </row>
+                <row>
+                  <entry>D.</entry>
+                  <entry>Ca</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <list id="id1166539268371" list-type="enumerated" number-style="arabic">
+            <item>Place several small pieces of Mg, Cu, and Zn in the correctly labeled test tube prepared above. Place <emphasis effect="bold">two or three</emphasis> pieces of Ca turnings in the test tube labeled "Ca".</item>
+            <item>Watch for evidence of reaction by noting evolution of gas bubbles and any change in the color or size of the metal. Be patient, some reactions may be slow! Record your observations and write net ionic equations for each reaction.</item>
+            <item><emphasis effect="bold">Discard the Ca and water in the Ca recovery beaker</emphasis>. Decant the water out of the test tubes containing Mg, Cu, and Zn and leave the pieces of metal that remain unreacted in each test tube.</item>
+          </list>
+          <para id="id1166541347117">Note: Trapped air bubbles on the metal surfaces are not indicative of a reaction.</para>
+          <para id="id1166544638922">Note: Net ionic equations must balance in mass (atoms) and in total charge on each side of the equation.</para>
+        </section>
+        <section id="id1166515407400">
+          <title>Part 2: Reactions of Metals with HCl</title>
+          <para id="para-id1166515407400">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id1166548420605">
+          <title>CAUTION: This part of the procedure must be done in a fume hood!!</title>
+          <para id="id1166510012435">
+            <emphasis effect="bold">CAUTION: Some of the test tubes may become very hot. Leave them in the test-tube rack while you are making observations.</emphasis>
+          </para>
+          <list id="id1166536720366" list-type="enumerated" number-style="arabic">
+            <item>Place the <emphasis effect="bold">three</emphasis> remaining test tubes in a test tube rack. There should be only <emphasis effect="bold">three</emphasis> test tubes remaining.</item>
+            <item>Add 2 mL of 3 M HCl solution to each test tube. </item>
+            <item>Observe the relative rate of H­<sub>2</sub> gas evolution for up to 5 minutes and record your observations on your report form.</item>
+            <item>Based on the observations in the previous steps, list the elements that react in 3M HCl in order of increasing strength as reducing agents and write net ionic equations for all reactions.</item>
+          </list>
+        </section>
+        <section id="id1166534890572">
+          <title>Part 3: Reactions of Metals with Other Metal Ions  </title>
+          <para id="para-id1166534890572">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id1166540119711">
+          <title>Note: It would be helpful to draw a diagram to remember where the drops are on the sheet of metal before you begin. </title>
+          <para id="para-id1166540119711">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id1166540294798">
+          <title>ABDC</title>
+          <list id="id1166540921036" list-type="enumerated" number-style="arabic">
+            <item>Place a clean 1 inch-square of metal foil (sheet) of each of these metals Cu, Zn and Pb on a flat surface. </item>
+            <item>Clean one side of the metal surface by sanding it with fine sandpaper or steel wool.</item>
+            <item>Place one or two drops in spots of each of these solutions in a clockwise order on the metal surfaces: </item>
+          </list>
+          <table id="id1166534454880" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>A.</entry>
+                  <entry>0.5 M Ag<sup>+</sup></entry>
+                </row>
+                <row>
+                  <entry>B.</entry>
+                  <entry>0.5 M Cu<sup>2+</sup></entry>
+                </row>
+                <row>
+                  <entry>C.</entry>
+                  <entry>0.5 M Zn<sup>2+</sup></entry>
+                </row>
+                <row>
+                  <entry>D.</entry>
+                  <entry>0.5 M Pb<sup>2+</sup></entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id1166534538411"> <emphasis effect="bold">NOTE: Do not test a metal with a solution of the same metal ion, such as Cu metal with Cu</emphasis><emphasis effect="bold">2+</emphasis><emphasis effect="bold"> ion.</emphasis></para>
+          <list id="id1166546742401" list-type="enumerated" number-style="arabic">
+            <item>Watch for color changes in each spot as evidence of reaction. If you are not sure whether the reaction has occurred, rinse the plate with water. A distinct spot of a different color on the surface is good evidence for the reaction.</item>
+            <item>Write net ionic equations for each reaction. Arrange Ag, Cu, Pb and Zn in order of their increasing strength as reducing agents. If a metal <emphasis effect="bold">A</emphasis> reacts with a cation of another metal <emphasis effect="bold">B</emphasis>, metal <emphasis effect="bold">A</emphasis> is a stronger reducing agent, more reactive than metal <emphasis effect="bold">B</emphasis>.</item>
+            <item>Rinse and dry each square of metal and return it to the correct beaker on the reagent shelf for other students to use.</item>
+          </list>
+        </section>
+        <section id="id1166516723396">
+          <title>Part 4: Flame Tests</title>
+          <para id="para-id1166516723396">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id1166529577225">
+          <title>This station will be located inside a fume hood</title>
+          <para id="id1166540429698">Chemicals/Materials:</para>
+          <list id="id1166508031302" list-type="bulleted">
+            <item>0.5 M Solutions of dissolved chloride salts of: Li, Na, K, Rb, Cs, Ca, Ba, Cu, Pb, Fe(II), and Fe(III), Sr (nitrate salt)</item>
+            <item>Wooden splints, one per each solution</item>
+            <item>Bunsen burner/clicker</item>
+            <item>1M HCl</item>
+          </list>
+          <para id="id1166536706662"/>
+          <list id="id1166541517760" list-type="bulleted">
+            <item>For each solution, take the splint out of the beaker and pass is through the flame of the Bunsen burner, remembering that the hottest part of the flame is the blue section in the center. Do not leave the splint in the flame too long as it will eventually catch on fire.</item>
+            <item>Replace the splint in the same beaker from which it came. </item>
+            <item>On your report form, record the color of the flame of each metal.</item>
+          </list>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

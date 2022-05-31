@@ -1,0 +1,1630 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Metathesis:  To Exchange or Not?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>455d626e-8375-4bb4-9049-a39ce1abb0c5</md:uuid>
+</metadata>
+  <content>
+    <section id="id-481470732877">
+      <title>Lab 4: Metathesis: To Exchange or Not</title>
+      <section id="id-960069029662">
+        <title>Objectives</title>
+        <list list-type="bulleted" id="id5335609">
+          <item>To give practice writing equations for metathesis reactions, including net ionic equations</item>
+          <item>To illustrate the concept of solubility and the effect of temperature and crystallization</item>
+        </list>
+      </section>
+      <section id="id-266748045097">
+        <title> Grading</title>
+        <para id="id8858982">You will be determined according to the following:</para>
+        <list list-type="bulleted" id="id8604765">
+          <item>Pre-lab (10%)<list list-type="bulleted" id="id7548482"><item>Must attach graph</item></list></item>
+          <item>Lab Report Form (80%) <list list-type="bulleted" id="id7862370"><item>Must include detailed observations for each reaction</item></list></item>
+          <item>TA Evaluation of lab procedure (10%)</item>
+        </list>
+      </section>
+      <section id="id-158695781827">
+        <title>Before Coming to Lab…</title>
+        <list list-type="bulleted" id="id8209533">
+          <item>Complete the pre-lab exercise, including the plot (due at the beginning of lab)</item>
+          <item>Read the instructions for the lab and refresh your memory on anything that isn’t clear by reading your textbook</item>
+        </list>
+      </section>
+      <section id="id-590049586566">
+        <title>Introduction</title>
+        <para id="id7850526">In molecular equations for many aqueous reactions, cations and anions appear to exchange partners. These reactions conform to the following general equation:</para>
+        <para id="id8604611">Equation 1: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>AX</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>BY</m:mtext></m:mrow><m:mo stretchy="false">→</m:mo><m:mrow><m:mtext>AY</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>BX</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"AX"+"BY" rightarrow "AY"+"BX"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7862841">These reactions are known as metathesis reactions. For a metathesis reaction to lead to a net change in solution, ions must be removed from the solution. In general, three chemical processes can lead to the removal of ions from solution, comcomitantly serving as a driving force for metathesis to occur:</para>
+        <para id="id6280672">1. The formation of a precipitate2. The formation of a weak electrolyte or nonelectrolyte3. The formation of a gas that escapes from solution</para>
+        <para id="id6225304">The reaction of barium chloride with silver nitrate is a typical example:</para>
+        <para id="id5335375">Equation 2: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>BaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>2AgNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Ba</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mtext>2AgCl</m:mtext></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"BaCl" rSub { size 8{2} }  \( "aq" \) +"2AgNO" rSub { size 8{3} }  \( "aq" \)  rightarrow "Ba" \( "NO" rSub { size 8{3} }  \)  rSub { size 8{2} }  \( "aq" \) +"2AgCl" \( s \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7924058">This form of the equation for this reaction is referred to as the molecular equations. Since we know that the salts 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>BaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"BaCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>AgNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"AgNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ba</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" \( "NO" rSub { size 8{3} }  \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> are strong electrolytes and are completely dissociated in solution, we can more realistically write the equation as follows:</para>
+        <para id="id6174388">Equation 3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>Ba</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>2Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>2Ag</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>2NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:msup><m:mtext>Ba</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>2NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mtext>2AgCl</m:mtext></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" rSup { size 8{2+{}} }  \( "aq" \) +"2Cl" rSup { size 8{ - {}} }  \( "aq" \) +"2Ag" rSup { size 8{+{}} }  \( "aq" \) +"2NO" rSub { size 8{3}   rSup { size 8{-{}} } }  \( "aq" \)  rightarrow "Ba" rSup { size 8{2+{}} }  \( "aq" \) +"2NO" rSub { size 8{3}   rSup { size 8{-{}} } }  \( "aq" \) +"2AgCl" \( s \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id3968165">This form, in which all ions are shown, is known as the complete ionic equation. Reaction occurs because the insoluble substance AgCl precipitates out of solution. The other product, barium nitrate, is soluble in water and remains in solution. We see that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Ba</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NO" rSub { size 8{3}   rSup { size 8{ - {}} } } } {}</m:annotation></m:semantics></m:math> ions appear on both sides of the equation and thus do not enter into the reaction. Such ions are called spectator ions. If we eliminate or omit them from both sides, we obtain the net ionic equation: </para>
+        <para id="id8193458">Equation 4: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>Ag</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>AgCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ag" rSup { size 8{+{}} }  \( "aq" \) +"Cl" rSup { size 8{ - {}} }  \( "aq" \)  rightarrow "AgCl" \( s \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7863684">This equation focuses our attention on the salient feature of the reaction: the formation of the precipitate AgCl. It tells us that solutions of any soluble 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>Ag</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mtext>salt</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ag" rSup { size 8{+{}} } "salt"} {}</m:annotation></m:semantics></m:math>and any soluble 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mtext>salt</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Cl" rSup { size 8{ - {}} } "salt"} {}</m:annotation></m:semantics></m:math>, when mixed, will form insoluble AgCl. When writing net ionic equations, remember that only strong electrolytes are written in the ionic form. Solids, gases, nonelectrolytes, and weak electrolytes are written in the molecular form. Frequently the symbol (aq) is omitted from ionic equations. The symbols (g) for gas and (s) for solid should not be omitted. Thus, Equation 4 can be written as </para>
+        <para id="id8084278">Equation 5: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mtext>Ag</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">→</m:mo><m:mtext>AgCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ag" rSup { size 8{+{}} } +"Cl" rSup { size 8{ - {}} }  rightarrow "AgCl" \( s \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8165123">Consider mixing solutions of KCl and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>. The ionic equation for the reaction is </para>
+        <para id="id8829353">Equation 6: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:msup><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSup { size 8{+{}} }  \( "aq" \) +"Cl" rSup { size 8{ - {}} }  \( "aq" \) +"Na" rSup { size 8{+{}} }  \( "aq" \) +"NO" rSub { size 8{3}   rSup { size 8{-{}} } }  \( "aq" \)  rightarrow K rSup { size 8{+{}} }  \( "aq" \) +"NO" rSub { size 8{3}   rSup { size 8{-{}} } }  \( "aq" \) +"Na" rSup { size 8{+{}} }  \( "aq" \) +"Cl" rSup { size 8{ - {}} }  \( "aq" \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7983974">Because all the compounds are water-soluble and are strong electrolytes, they have been written in the ionic form. They completely dissolve in water. If we eliminate spectator ions from the equation, nothing remains. Hence, there is no reaction: Equation 7: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>no reaction</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSup { size 8{+{}} }  \( "aq" \) +"Cl" rSup { size 8{ - {}} }  \( "aq" \) +"Na" rSup { size 8{+{}} }  \( "aq" \) +"NO" rSub { size 8{3}   rSup { size 8{-{}} } }  \( "aq" \)  rightarrow "no reaction"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id3594725">Metathesis reactions occur when a precipitate, a gas, a weak electrolyte, or a nonelectrolyte is formed. The following equations are further illustrations of such processes. </para>
+      </section>
+      <section id="id-2750642819">
+        <title>Formation of a Gas</title>
+        <para id="id8373805">Molecular equation: Equation 8: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>2HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>S</m:mi><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>2NaCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>S</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2HCl" \( "aq" \) +"Na" rSub { size 8{2} } S \( "aq" \)  rightarrow "2NaCl" \( "aq" \) +H rSub { size 8{2} } S \( g \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8373827">Complete ionic equation: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>2H</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>2Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>2Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mi>S</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:msup><m:mtext>2Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mtext>2Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>S</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2H" rSup { size 8{+{}} }  \( "aq" \) +"2Cl" rSup { size 8{ - {}} }  \( "aq" \) +"2Na" rSup { size 8{+{}} }  \( "aq" \) +S rSup { size 8{2 - {}} }  \( "aq" \)  rightarrow "2Na" rSup { size 8{+{}} }  \( "aq" \) +"2Cl" rSup { size 8{ - {}} }  \( "aq" \) +H rSub { size 8{2} } S \( g \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7470614">Net ionic equation:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>2H</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msup><m:mi>S</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>S</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2H" rSup { size 8{+{}} }  \( "aq" \) +S rSup { size 8{2 - {}} }  \( "aq" \)  rightarrow H rSub { size 8{2} } S \( g \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8872064">or</para>
+        <para id="id6870417">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mtext>2H</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mi>S</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>S</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"2H" rSup { size 8{+{}} } +S rSup { size 8{2 - {}} }  rightarrow H rSub { size 8{2} } S \( g \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </section>
+      <section id="id-824664584692">
+        <title>Formation of a Weak Electrolyte</title>
+        <para id="id7470815">Molecular equation:</para>
+        <para id="id7470819">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>HNO</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>NaOH</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mtext>NaNO</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"HNO" rSub { size 8{3} }  \( "aq" \) +"NaOH" \( "aq" \)  rightarrow H rSub { size 8{2} } O \( l \) +"NaNO" rSub { size 8{3} }  \( "aq" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6438607">Complete ionic equation:</para>
+        <para id="id6831821">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mtext>NO</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:msup>
+                                <m:mn>3</m:mn>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mtext>Na</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mtext>OH</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mtext>Na</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:msub>
+                        <m:mtext> NO</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>3</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} }  \( "aq" \) +"NO" rSub { size 8{3}   rSup { size 8{-{}} } }  \( "aq" \) +"Na" rSup { size 8{+{}} }  \( "aq" \) +"OH" rSup { size 8{ - {}} }  \( "aq" \)  rightarrow H rSub { size 8{2} } O \( l \) +"Na" rSup { size 8{+{}} }  \( "aq" \) " NO" rSub { size 8{3}   rSup { size 8{-{}} } }  \( "aq" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id8833130">Net ionic equation:</para>
+        <para id="id8054028">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mtext>OH</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} }  \( "aq" \) +"OH" rSup { size 8{ - {}} }  \( "aq" \)  rightarrow H rSub { size 8{2} } O \( l \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6210051">In order to decide if a reaction occurs, we need to be able to determine whether or not a precipitate, a gas, a nonelectrolyte, or a weak electrolyte will be formed. The following brief discussion is intended to aid you in this regard. Table 1 summarizes solubility rules and should be consulted while performing this experiment.</para>
+        <para id="id8220096">The common gases are 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"SO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>S</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } S} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>. Carbon dioxide and sulfur dioxide may be regarded as resulting form the decomposition of their corresponding weak acids, which are initially formed when carbonate and sulfite salts are treated with acid:</para>
+        <para id="id8828960">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mtext>CO</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mtext>CO</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "CO" rSub { size 8{3} }  \( "aq" \)  rightarrow H rSub { size 8{2} } O \( l \) +"CO" rSub { size 8{2} }  \( g \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id8209348">and</para>
+        <para id="id8209352">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msub>
+                        <m:mtext>SO</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mtext>SO</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{3} }  \( "aq" \)  rightarrow H rSub { size 8{2} } O \( l \) +"SO" rSub { size 8{2} }  \( g \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id8808498">Ammonium salts form 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> when they are treated with strong bases: </para>
+        <para id="id8373595">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>NH</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>4</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mtext>OH</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:msub>
+                        <m:mtext>NH</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{4}   rSup { size 8{+{}} } }  \( "aq" \) +"OH" rSup { size 8{ - {}} }  rightarrow "NH" rSub { size 8{3} }  \( g \) +H rSub { size 8{2} } O \( l \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </section>
+      <section id="id-665260664007">
+        <title>Table 1 Solubility Rules</title>
+        <table id="id7387875" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Water-soluble salts</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msup>
+                                <m:mtext>Na</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:msup>
+                                <m:mtext>,K</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:msub>
+                                <m:mtext>,NH</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:msup>
+                                      <m:mn>4</m:mn>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mrow>
+                                            <m:mo stretchy="false">+</m:mo>
+                                            <m:mrow/>
+                                          </m:mrow>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"Na" rSup { size 8{+{}} } ",K" rSup { size 8{+{}} } ",NH" rSub { size 8{4}   rSup { size 8{+{}} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All sodium, potassium, and ammonium salts are soluble.</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>NO</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:msup>
+                                      <m:mn>3</m:mn>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mrow>
+                                            <m:mo stretchy="false">−</m:mo>
+                                            <m:mrow/>
+                                          </m:mrow>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mtext>,CIO</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:msup>
+                                      <m:mn>3</m:mn>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mrow>
+                                            <m:mo stretchy="false">−</m:mo>
+                                            <m:mrow/>
+                                          </m:mrow>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msup>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mtext>,C</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mi>H</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msup>
+                                <m:mi>O</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"NO" rSub { size 8{3}   rSup { size 8{-{}} } } ",CIO" rSub { size 8{3}   rSup { size 8{-{}} } } ",C" rSub { size 8{2} } H rSub { size 8{3} } O rSup { size 8{2 - {}} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All nitrates, chlorates, and acetate are soluble.</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>Cl</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"Cl" rSup { size 8{ - {}} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All chlorides are soluble except AgCl, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>Hg</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Hg" rSub { size 8{2} } "Cl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:msub><m:mtext>PbCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">∗</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"PbCl" rSub { size 8{2} }  * } {}</m:annotation></m:semantics></m:math>.</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>Br</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"Br" rSup { size 8{ - {}} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All bromides are soluble except AgBr, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>Hg</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>Br</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Hg" rSub { size 8{2} } "Br" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:msub><m:mtext>PbBr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">∗</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"PbBr" rSub { size 8{2} }  * } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:msub><m:mtext>HgBr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">∗</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"HgBr" rSub { size 8{2} }  * } {}</m:annotation></m:semantics></m:math>.</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>I</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{I rSup { size 8{ - {}} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All iodides are soluble except AgI, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>Hg</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Hg" rSub { size 8{2} } I rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>PbI</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"PbI" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HgI</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HgI" rSub { size 8{2} }  "." 0} {}</m:annotation></m:semantics></m:math></entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>SO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:msup>
+                                    <m:mn>4</m:mn>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mrow>
+                                          <m:mn>2</m:mn>
+                                          <m:mo stretchy="false">−</m:mo>
+                                          <m:mrow/>
+                                        </m:mrow>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"SO" rSub { size 8{4}   rSup { size 8{2 - {}} } } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All sulfates are soluble except 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:msub><m:mtext>CaSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">∗</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"CaSO" rSub { size 8{4} }  * } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>SrSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"SrSO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>BaSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"BaSO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>Hg</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Hg" rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>PbSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"PbSO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>Ag</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ag" rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5338515"> </para>
+        <table id="id5338519" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Water-insoluble salts</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CO" rSub { size 8{3}   rSup { size 8{2 - {}} } } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"SO" rSub { size 8{3}   rSup { size 8{2 - {}} } } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>PO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"PO" rSub { size 8{4}   rSup { size 8{3 - {}} } } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry>All carbonates, sulfites, phosphates, and chromates are insoluble except those of
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CrO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CrO" rSub { size 8{4}   rSup { size 8{2 - {}} } } } {}</m:annotation></m:semantics></m:math> alkali metals and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{4}   rSup { size 8{+{}} } } } {}</m:annotation></m:semantics></m:math>.</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>OH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"OH" rSup { size 8{ - {}} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All hydroxides are insoluble except those of alkali metals and 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mtext>Ca</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">∗</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"Ca" \( "OH" \)  rSub { size 8{2} }  * } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mtext>Sr</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">∗</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"Sr" \( "OH" \)  rSub { size 8{2} }  * } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ba</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" \( "OH" \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>S</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{S rSup { size 8{2 - {}} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>All sulfides are insoluble except those of the alkali metals, alkaline earths, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{4}   rSup { size 8{+{}} } } } {}</m:annotation></m:semantics></m:math>.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8562498">*Slightly soluble.</para>
+      </section>
+      <section id="id-000167984609558">
+        <title>Table 2 Strong Electrolytes</title>
+        <table id="id7719020" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Salts</entry>
+                <entry>All common soluble salts</entry>
+              </row>
+              <row>
+                <entry>Acids </entry>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>HClO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HClO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, HCl, HBr, HI, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> are strong electrolytes; all others are weak.</entry>
+              </row>
+              <row>
+                <entry>Bases </entry>
+                <entry>Alkali metal hydroxides, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ca</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ca" \( "OH" \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Sr</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Sr" \( "OH" \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ba</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" \( "OH" \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> are strong electrolytes; all others are weak.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8190397">Which are the weak electrolytes? The easiest way of answering this question is to identify all of the strong electrolytes, and if the substance does not fall in that category then it is a weak electrolyte. Note, water is a nonelectrolyte. Strong electrolytes are summarized in Table.2.</para>
+        <para id="id6070698">In the first part of this experiment, you will study some metathesis reactions. In some instances it will be very evident that a reaction has occurred, whereas in others it will not be so apparent. In the doubtful case, use the guidelines above to decide whether or not a reaction has taken place. You will be given the names of the compounds to use but not their formulas. This is being done deliberately to give practice in writing formulas from names.</para>
+        <para id="id5030526">In the second part of this experiment, you will study the effect of temperature on solubility. The effect that temperature has on solubility varies from salt to salt. We conclude that mixing solutions of KCl and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> resulted in no reaction (see Equations 6 and 7). What would happen if we cooled such a mixture? The solution would eventually become saturated with respect to one of the salts, and crystals of that salt would begin to appear as its solubility was exceeded. Examination of Equation 6 reveals that crystals of any of the following salts could appear initially: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>KNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"KNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, KCl, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, or NaCl.Consequently, if a solution containing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Na" rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Cl" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NO" rSub { size 8{3}   rSup { size 8{ - {}} } } } {}</m:annotation></m:semantics></m:math> ions is evaporated at a given temperature, the solution becomes more and more concentrated and will eventually become saturated with respect to one of the four compounds. If a evaporation is continued, that compound will crystallize out, removing its' ions from solution. The other ions will remain in solution and increase in concentration. Before beginning this laboratory exercise you are to plot a graph of the solubilities of the four salts given in Table 3 on your report sheet.</para>
+      </section>
+    </section>
+    <section id="id-900748498536">
+      <title>Experimental Procedure</title>
+      <section id="id-228274904406">
+        <title>Part 1: Metathesis Reactions</title>
+        <para id="id6870392">CAUTION WEAR EYE PROTECTION</para>
+        <list list-type="enumerated" id="id6870399">
+          <item>The report sheet lists 16 pairs of chemicals that are to be mixed. Use about 1 mL of the reagents to be combined as indicated on the report sheet. </item>
+          <item>Mix the solutions in small test tubes and record your observations on the report sheet. If there is no reaction, write N.R. (The reactions need not be carried out in the order listed. In order to reduce congestion at the reagent shelf, half the class will start in reverse order). Dispose of the contents of your test tubes in the designated receptacles.</item>
+        </list>
+      </section>
+      <section id="id-664064712873">
+        <title>Part 2: Solubility, Temperature and Crystallization </title>
+        <list list-type="enumerated" id="id7865162"><item>Place 8.5 g of sodium nitrate and 7.5 g of potassium chloride in a 100-mL beaker and add 25 mL of water. Warm the mixture on an hotplate, stirring, until the solids completely dissolve. </item>
+	<item>Assuming a volume of 25mL for the solution, calculate the molarity of the solution with respect to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, KCl, NaCl, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>KNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"KNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, and record these molarities on your report form.</item>
+	<item>Cool the solution to about 10°C by placing the beaker in ice water in a 600-mL beaker and stir the solution carefully with a thermometer, being careful not to break it. </item>
+	<item>When no more crystals form, at approximately 10°C, filter the cold solution quickly and allow the filtrate to drain thoroughly into an evaporating dish. Dry the crystals between two dry pieces of filter paper or paper towels. </item>
+	<item>Examine the crystals with a magnifying glass (or fill a Florence flask with water and look at the crystals through it). Describe the shape of the crystals—that is, needles, cubes, plates, rhombs, and so forth on your report form. </item>
+	<item>Based upon your solubility graph, which compound crystallized out of solution and write that in the appropriate place on your report form</item>
+	<item>Evaporate the filtrate to about half of its volume using a Bunsen burner and ring stand. A second crop of crystals should form. Record the temperature and rapidly filter the hot solution, collecting the filtrate in a clean 100-mL beaker. </item>
+	<item>Dry the second batch of crystals between two pieces of filter paper and examine their shape. Compare their shape with the first batch of crystals. </item>
+	<item>Based upon your solubility graph, what is this substance?</item>
+	<item>Finally, cool the filtrate to 10°C while stirring carefully with a thermometer to obtain a third crop of crystals. Carefully observe their shapes and compare them with those of the first and second batches. </item>
+	<item>What compound is the third batch of crystals? Dispose of the chemicals in the designated receptacles. </item>
+</list>
+      </section>
+    </section>
+    <section id="id-801770492151">
+      <title>Pre-Lab 4: Metathesis – To Exchange or Not</title>
+      <para id="id8154409">Hopefully <link document="m15130" resource="PreLabMetathesis07.doc">here</link> for the Pre-Lab</para>
+      <para id="id5335630">Name(Print then sign): ___________________________________________________</para>
+      <para id="id5335636">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id3230079">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <para id="id3230086">1. Write molecular, complete ionic, and net ionic equations for the reactions that occur, if any, when solutions of the following substances are mixed: (a) nitric acid and barium carbonate</para>
+      <para id="id8209507">(b) zinc chloride and lead nitrate</para>
+      <para id="id8209512">(c) acetic acid and sodium hydroxide</para>
+      <para id="id7706547">(d) calcium nitrate and sodium carbonate</para>
+      <para id="id7706552">(e) ammonium chloride and potassium hydroxide</para>
+      <para id="id8190470"> 2. Which of the following are not water soluble:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ba</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" \( "NO" rSub { size 8{3} }  \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"FeCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CuCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CuCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CuSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CuSO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, ZnS, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>ZnSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"ZnSO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>? </para>
+      <para id="id7706572">3. Write equations for the decomposition of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "CO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>. </para>
+      <para id="id8455310">4. At what temperature (from your graph) do 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>KNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"KNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> and NaCl have the same molar solubility? </para>
+      <para id="id7864791">5. Which of the following are strong electrolytes: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>BaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"BaCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>AgNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"AgNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, HCl, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>? </para>
+      <para id="id7548587">6. Which of the following are weak electrolytes: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, HF, HCl, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>aq</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{3} }  \( "aq" \) } {}</m:annotation></m:semantics></m:math>, NaOH? </para>
+      <para id="id7751484">7. For each of the following water-soluble compounds, indicate the ions present in an aqueous solution: NaI, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, NaCN, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ba</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" \( "OH" \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "NH" rSub { size 8{4} }  \)  rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>. </para>
+    </section>
+    <section id="id-771564132593">
+      <title>Report 4: Metathesis – To Exchange or Not</title>
+      <para id="id8573950">Hopefully <link document="m15130" resource="ReportMetathesis07.doc">here</link> for the Report Form</para>
+      <para id="id8455124">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id8562262">Name: ___________________________________________</para>
+      <para id="id8562267">Section: __________________________________________</para>
+      <section id="id-270284923494">
+        <title>Part 1: Metathesis Reactions</title>
+        <para id="id8465186">1. Copper (II) sulfate + sodium carbonate</para>
+        <table id="id7297154" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+	<colspec colnum="2" colname="c2"/>
+	<tbody>
+		<row>
+			<entry>Observations</entry>
+			<entry> </entry>
+		</row>
+		<row>
+			<entry>Molecular equation</entry>
+			<entry> </entry>
+		</row>
+		<row>
+			<entry>Complete ionic equation</entry>
+			<entry> </entry>
+		</row>
+		<row>
+			<entry>Net ionic equation</entry>
+			<entry> </entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table>
+        <para id="id5448790">2. Copper(II) sulfate + barium chloride</para>
+        <table id="id5448795" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+	<colspec colnum="2" colname="c2"/>
+	<tbody>
+		<row>
+			<entry>Observations</entry>
+			<entry> </entry>
+		</row>
+		<row>
+			<entry>Molecular equation</entry>
+			<entry> </entry>
+		</row>
+		<row>
+			<entry>Complete ionic equation</entry>
+			<entry> </entry>
+		</row>
+		<row>
+			<entry>Net ionic equation</entry>
+			<entry> </entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table>
+        <para id="id8584250">3. Copper(II) sulfate + sodium phosphate</para>
+        <table id="id6870074" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7052252">4. Sodium carbonate + sulfuric acid</para>
+        <table id="id8561980" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8368962">5. Sodium carbonate + hydrochloric acid</para>
+        <table id="id8627981" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6896516">6. Cadmium chloride + sodium sulfide</para>
+        <table id="id6896520" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6831780">7. Cadmium chloride + sodium hydroxide</para>
+        <table id="id8828504" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8831886">8. Nickel chloride + silver nitrate</para>
+        <table id="id8831891" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6896667">9. Nickel chloride + sodium carbonate</para>
+        <table id="id6896670" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8839011">10. Hydrochloric acid + sodium hydroxide</para>
+        <table id="id8839015" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8862758">11. Ammonium chloride + sodium hydroxide</para>
+        <table id="id8862762" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8245133">12. Sodium acetate + hydrochloric acid</para>
+        <table id="id8245137" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8082160">13. Sodium sulfide + hydrochloric acid</para>
+        <table id="id8082164" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8832762">14. Lead nitrate + sodium sulfide</para>
+        <table id="id8832766" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8266566">15. Lead nitrate + sulfuric acid</para>
+        <table id="id8266570" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8837548">16. Potassium chloride + sodium nitrate</para>
+        <table id="id8837552" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observations</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Molecular equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Complete ionic equation</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Net ionic equation</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-401006106967">
+        <title>Part 2: Solubility, Temperature and Crystallization </title>
+        <para id="id8231994">Table 3 Molar Solubilities of NaCl, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, KCl, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>KNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"KNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> (mol/L)</para>
+        <table id="id8627967" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Compound</entry>
+                <entry>0°C</entry>
+                <entry>20°C</entry>
+                <entry>40°C</entry>
+                <entry>60°C</entry>
+                <entry>80°C</entry>
+                <entry>100°C</entry>
+              </row>
+              <row>
+                <entry>NaCl</entry>
+                <entry>5.4</entry>
+                <entry>5.4</entry>
+                <entry>5.5</entry>
+                <entry>5.5</entry>
+                <entry>5.5</entry>
+                <entry>5.6</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>NaNO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"NaNO" rSub { size 8{3} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>6.7</entry>
+                <entry>7.6</entry>
+                <entry>8.5</entry>
+                <entry>9.4</entry>
+                <entry>10.4</entry>
+                <entry>11.3</entry>
+              </row>
+              <row>
+                <entry>KCl</entry>
+                <entry>3.4</entry>
+                <entry>4.0</entry>
+                <entry>4.6</entry>
+                <entry>5.1</entry>
+                <entry>5.5</entry>
+                <entry>5.8</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>KNO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"KNO" rSub { size 8{3} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>1.3</entry>
+                <entry>3.2</entry>
+                <entry>5.2</entry>
+                <entry>7.0</entry>
+                <entry>9.0</entry>
+                <entry>11.0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list list-type="enumerated" id="id8413822">
+          <item>Calculate the initial molarities of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, KCl, NaCl, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>KNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"KNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>.</item>
+        </list>
+        <para id="id8840420"> </para>
+        <section id="id-832629105724">
+          <title>First Batch of Crystals</title>
+          <list list-type="enumerated" id="id7049558">
+            <item>The first batch of crystals is formed at 10°C. Describe these crystals in terms of shape, color, consistency, etc.</item>
+            <item>Use the solubility chart to determine the identity of the crystals. Explain your answer.</item>
+          </list>
+        </section>
+        <section id="id-762895432705">
+          <title>Second Batch of Crystals</title>
+          <list list-type="enumerated" id="id7049597">
+            <item>What was the temperature of the filtrate when the second batch of crystals formed?</item>
+            <item>Describe these crystals in terms of shape, color, consistency, etc.</item>
+            <item>Assuming that the first batch of crystals crystallized completely, removing all of it’s ions from solution, what is the identity of the second batch of crystals? (use your solubility chart and explain your answer)</item>
+          </list>
+        </section>
+        <section id="id-728541035395">
+          <title>Third Batch of Crystals</title>
+          <list list-type="enumerated" id="id8862418">
+            <item>The reason that we see a third batch of crystals is that we don’t get complete crystallization of the salts in the 1st and 2nd batches of crystals. Assuming there is a small concentration of each ion left in solution after the second batch of crystals is formed, what is the identity of the third batch of crystals according to your solubility chart?</item>
+            <item>Describe these crystals in terms of shape, color, consistency, etc.</item>
+          </list>
+          <para id="id8862460">BONUS QUESTION: </para>
+          <para id="id8862468">Describe two different tests that we could use to determine the identity of each set of crystals. To receive full credit you must give the name of the test, a description of the theory, and describe the results that you would for your proposed identity of each set of crystals. (5 points max.)</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
